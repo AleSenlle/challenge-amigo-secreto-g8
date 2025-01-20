@@ -2,14 +2,12 @@
 
 ![Platforms](https://img.shields.io/badge/platforms-Windows%2C%20Linux%2C%20macOS-brightgreen)
 ![Size](https://img.shields.io/github/repo-size/AleSenlle/challenge-amigo-secreto-g8)
-![Version](https://img.shields.io/github/release/AleSenlle/challenge-amigo-secreto-g8)
-![Build Status](https://img.shields.io/github/workflow/status/AleSenlle/challenge-amigo-secreto-g8)
 
 ## 📓 Descripción del proyecto
 
 ¡Bienvenido a la aplicación de **Amigo Secreto**! Esta es una herramienta simple que permite a los usuarios agregar amigos a una lista y luego realizar un sorteo aleatorio para elegir al "amigo secreto" de cada uno.
 
-![Amigo Secreto](assets/undraw_welcoming_42an.svg)
+![Amigo Secreto](assets/undraw_welcoming_42an.svg){: width="300px" height="200px"}
 
 ## 🔧 Funcionalidades
 
