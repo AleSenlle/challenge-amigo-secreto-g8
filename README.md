@@ -7,7 +7,7 @@
 
 ¡Bienvenido a la aplicación de **Amigo Secreto**! Esta es una herramienta simple que permite a los usuarios agregar amigos a una lista y luego realizar un sorteo aleatorio para elegir al "amigo secreto" de cada uno.
 
-![Amigo Secreto](assets/undraw_welcoming_42an.svg){: width="300px" height="200px"}
+![Amigo Secreto](assets/undraw_welcoming_42an.svg)
 
 ## 🔧 Funcionalidades
 
