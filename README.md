@@ -2,8 +2,8 @@
 
 ![Platforms](https://img.shields.io/badge/platforms-Windows%2C%20Linux%2C%20macOS-brightgreen)
 ![Size](https://img.shields.io/github/repo-size/AleSenlle/challenge-amigo-secreto-g8)
-![Version](https://img.shields.io/github/release/AleSenlle/challenge-amigo-secreto-g8.svg)
-![Build Status](https://img.shields.io/github/workflow/status/AleSenlle/challenge-amigo-secreto-g8/Build)
+![Version](https://img.shields.io/github/release/AleSenlle/challenge-amigo-secreto-g8)
+![Build Status](https://img.shields.io/github/workflow/status/AleSenlle/challenge-amigo-secreto-g8)
 
 ## 📓 Descripción del proyecto
 
